@@ -14,7 +14,7 @@ export default function Home() {
           alt="the fresh logo: a sliced lemon dripping with juice"
         />
         <p class="my-6">
-          Welcome deno deploy
+          Welcome deno deploy updated
         </p>
         <Counter start={3} />
       </div>
